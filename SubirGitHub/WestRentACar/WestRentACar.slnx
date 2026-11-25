@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="WestRentACar.Datos/WestRentACar.Datos.csproj" />
+  <Project Path="WestRentACar.Entidades/WestRentACar.Entidades.csproj" />
+  <Project Path="WestRentACar.Negocio/WestRentACar.Negocio.csproj" />
+  <Project Path="WestRentACar.Presentacion/WestRentACar.Presentacion.csproj" />
+</Solution>
